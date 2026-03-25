@@ -1,4 +1,4 @@
-# 🚀 Coding: Linguagens e Técnicas (CLT) — Ciclo 2024.2
+# 🚀 Coding: Linguagens e Técnicas (CLT) - Ciclo 2024.2
 
 ### 📋 Visão Geral do Projeto
 Este repositório documenta a evolução técnica e o desenvolvimento de interfaces durante a disciplina de **Coding: Linguagens e Técnicas**. 
@@ -22,5 +22,5 @@ Para acompanhar a evolução dos códigos localmente, siga o fluxo de trabalho s
    git clone https://github.com/abeatrizz/CODIGOS-CLT.git
 2. **Navegar até as Aulas**: Acesse a pasta específica de desenvolvimento.
    ```bash
-   cd CODIGOS-CLT/Aulas/HTMLCSS
+   cd CODIGOS-CLT/Aulas
 3. **Visualização**: Abra qualquer arquivo .html em seu navegador para validar a entrega visual.
