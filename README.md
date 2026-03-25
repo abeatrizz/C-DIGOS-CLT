@@ -1,11 +1,22 @@
-# Repositório – Coding: Linguagens e Técnicas (2024.2)
+# 🚀 Coding: Linguagens e Técnicas (CLT) — Ciclo 2024.2
 
-Este repositório reúne os códigos desenvolvidos ao longo da disciplina **Coding: Linguagens e Técnicas** (2024.2), durante minha trajetória acadêmica.
+### 📋 Visão Geral do Projeto
+Este repositório documenta a evolução técnica e o desenvolvimento de interfaces durante a disciplina de **Coding: Linguagens e Técnicas**. 
+O foco principal foi a aplicação prática de tecnologias front-end para a construção de componentes modulares e páginas responsivas, 
+servindo como base para a compreensão da viabilidade de interface em produtos digitais.
 
-Os projetos foram construídos e evoluídos ao longo do semestre, com foco na aplicação prática de **HTML** e **CSS**, passando por:
+### ✨ Evolução e Entregas
+* **Prototipagem de Interfaces**: Criação de estruturas iniciais (MVPs) focadas em portfólios e páginas simples.
+* **Refatoração Progressiva**: Aprimoramento de estrutura e estilo, demonstrando a capacidade de iterar sobre o código existente.
+* **Boas Práticas de Produto**: Aplicação de semântica, organização de arquivos e responsividade para garantir uma melhor experiência do usuário.
 
-- Criação de portfólios simples;
-- Aprimoramentos progressivos de estrutura e estilo;
-- Aplicação de boas práticas de semântica, organização e responsividade.
+### 🛠️ Tecnologias Utilizadas
+* **HTML5**: Estruturação semântica e acessibilidade.
+* **CSS3**: Estilização avançada e layouts responsivos.
 
-O objetivo principal é demonstrar o aprendizado e a evolução técnica ao longo da disciplina, compondo uma base inicial para meu portfólio profissional.
+### 🚀 Como Executar e Visualizar
+Para acompanhar a evolução dos códigos localmente, siga o fluxo de trabalho sugerido:
+
+1. **Clonar o Repositório**: Baixe o histórico de projetos para o seu computador.
+   ```bash
+   git clone https://github.com/abeatrizz/CODIGOS-CLT.git
